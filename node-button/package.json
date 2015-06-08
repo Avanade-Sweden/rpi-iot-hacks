@@ -1,0 +1,15 @@
+{
+  "name": "gpio",
+  "version": "1.0.0",
+  "description": "Playing with GPIO on Raspberry Pi.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ledsite.js"
+  },
+  "author": "John-Philip Johansson <seriema@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4",
+    "onoff": "^1.0.2"
+  }
+}
