@@ -24,4 +24,8 @@ $ npm start
 
 ## Report
 
-Pretty simple to set up. The hard part was trying to use Azure and Notification Hubs without running Windows 10 IoT on the Raspberry. 
+Pretty simple to set up. The hard part was trying to use Azure and Notification Hubs without running Windows 10 IoT on the Raspberry.
+
+![On](on.jpg "LED on")
+
+![Off](off.jpg "LED off")
